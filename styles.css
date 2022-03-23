@@ -1,6 +1,8 @@
 h1{color:#cde951 !important;
 text-align: center;}
 /*esto es un comentario*/
-ol{color: #1809e4}
-body{background-image: url(Rossi.jfif);}
-ul{color: #1809e4;}
+
+body{background-color: blue;}
+ul{color: yellow;}
+img{text-align: center;}
+p{color: yellow;}
