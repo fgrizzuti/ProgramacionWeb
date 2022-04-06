@@ -4,8 +4,6 @@ h1 {
     padding: 10px;
     border: 5px solid green ;
     margin: 0;
-    position: static;
-    left: 50%;
   }
 /*esto es un comentario*/
 
@@ -20,3 +18,4 @@ p{color: yellow;}
     right: 20px;
   }
 
+#titulo-principal{text-align: center;}
