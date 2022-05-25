@@ -1,9 +1,4 @@
-h1{color:#cde951 !important;}
-h1 {   
-    width: 320px;
-    padding: 10px;
-    border: 5px solid green ;
-  }
+
 /*esto es un comentario*/
 
 body{background-color: blue;}
@@ -11,10 +6,17 @@ ul{color: yellow;}
 img{text-align: center;}
 p{color: yellow;}
 
+#Rossi{margin-top: 3%;
+  margin-left: 0.5%;
+  float:left
+}
+
+#Rojo{ ;}
+
 #paper-plane{
     position: fixed;
     bottom: 30px;
     right: 20px;
   }
-#Foto_Rossi{margin-top: 5%;}
+
 #titulo-principal{text-align: center;}
