@@ -1,22 +1,19 @@
-
 /*esto es un comentario*/
 
-body{background-color: blue;}
-ul{color: yellow;}
-img{text-align: center;}
-p{color: yellow;}
-
-#Rossi{margin-top: 3%;
-  margin-left: 0.5%;
-  float:left
+body {
+  background-color: blue;
+}
+ul {
+  color: yellow;
+}
+p {
+  color: yellow;
 }
 
-#Rojo{ ;}
 
-#paper-plane{
-    position: fixed;
-    bottom: 30px;
-    right: 20px;
-  }
+#paper-plane {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+}
 
-#titulo-principal{text-align: center;}
