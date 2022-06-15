@@ -1,24 +1,6 @@
 /*esto es un comentario*/
-
-body {
-  background-color: blue;
-}
-ul {
-  color: yellow;
-}
-p {
-  color: yellow;
-}
-
-
 #paper-plane {
   position: fixed;
   bottom: 30px;
-  right: 20px;
 }
 
-.rossi{
-  border: 4px solid;
-  padding: 100px;
-  width: 100%;
-}
